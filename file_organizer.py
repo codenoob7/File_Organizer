@@ -7,12 +7,12 @@ os.chdir(FOLDER_PATH)
 print(os.getcwd())
 
 Extension_Map = {
-    "Images": [".jpg", ".jpeg", ".png", ".gif"],
+    "Images": [".jpg", ".jpeg", ".png", ".gif",".svg",".bmp"],
     "Videos": [".mp4",".mov",".avi",".wmv",".mkv",".webm"],
-    "Documents": [".pdf", ".docx", ".txt"],
-    "Spreadsheets": [".xlsx", ".csv"],
-    "Archives": [".zip", ".rar"],
-    "Design Files":[".psd",".ai",".svg"],
+    "Audios": [".mp3",'.wav',".aac",".flac"],
+    "Documents": [".pdf", ".docx", ".txt",'.xlsx','.csv','.pptx'],
+    "Archives": [".zip", ".rar",'.tar','.gz'],
+    "Design Files":[".psd",".ai"],
     "Web Files": [".html",".htm",".css",".js",".php",".asp",".xml"],
     "Applications": [".app", ".applescript", ".exe"],
 }
